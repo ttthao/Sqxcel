@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Sqxel</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_create_table">Create a Table</string>
+    <string name="title_activity_add_item">Add an Item</string>
+    <string name="title_activity_export">Export to CSV</string>
+</resources>
